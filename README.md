@@ -14,3 +14,4 @@ The article can be compiled using `latexmk`:
 latexmk -pdf -interaction=nonstopmode -f article.tex
 ```
 
+There are also compiled PDF files in the releases section [[Download PDF](https://github.com/AppPETs/SecretSharing-Whitepaper/releases/download/v1.0.0/article.pdf)].
