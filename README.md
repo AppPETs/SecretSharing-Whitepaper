@@ -8,10 +8,10 @@ For a demo-application see [SecretSharing-iOS](https://github.com/AppPETs/Secret
 
 ## Compilation
 
-The article can be compiled using `latexmk`:
+The article can be compiled by running:
 
 ```sh
-latexmk -pdf -interaction=nonstopmode -f article.tex
+make
 ```
 
 There are also compiled PDF files in the releases section [[Download PDF](https://github.com/AppPETs/SecretSharing-Whitepaper/releases/download/v1.0.0/article.pdf)].
